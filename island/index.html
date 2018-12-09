@@ -115,7 +115,7 @@ img.emoji {
 <script type='text/javascript' src='https://machinetl.github.io/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=5.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/machinetl.github.io\/wp-admin\/admin-ajax.php","nonce":"dc11797a2c"};
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/machinetl.github.io\/wp-admin\/admin-ajax.php","nonce":"4b5f413c2e"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://machinetl.github.io/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.0.5'></script>
@@ -171,7 +171,34 @@ body,
 				.site-content .rpwe-block li{background-color:#FFFFFF;}.header-image .opacity{background-color:rgba(0, 0, 0, 0.1);}
 </style>
 <!-- End Custom CSS -->
-</head>
+<script>
+function setCookie(name,value,days) {
+  var expires = "";
+  if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days*24*60*60*1000));
+      expires = "; expires=" + date.toUTCString();
+  }
+  document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+function getCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length,c.length);
+  }
+  return null;
+}
+
+var Page = document.location.pathname.toLowerCase();
+if (Page.indexOf("/warning") < 0){
+	if (getCookie("warning") === null){
+		document.location.href = "./warning";
+	}
+}
+</script></head>
 
 <body class="post-template-default single single-post postid-25 single-format-standard comfortable-paragraph-line-height crisp-images citylogic-page-builders-use-theme-styles citylogic-shop-no-breadcrumbs">
 

@@ -12,7 +12,7 @@
 	<atom:link href="https://machinetl.github.io/tag/french/feed/" rel="self" type="application/rss+xml" />
 	<link>https://machinetl.github.io</link>
 	<description>An VNR Alternative</description>
-	<lastBuildDate>Fri, 14 Dec 2018 06:58:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Dec 2018 19:21:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,6 +27,7 @@
 		<category><![CDATA[Visual Novel]]></category>
 		<category><![CDATA[+18]]></category>
 		<category><![CDATA[French]]></category>
+		<category><![CDATA[German]]></category>
 		<category><![CDATA[Italian]]></category>
 		<category><![CDATA[Yuzusoft]]></category>
 
@@ -91,6 +92,10 @@ Shuuji’s once normal life is thrown into chaos, and with that, a certain faint
 <tr>
 <th class="tg-3z1b">Français</th>
 <th class="tg-0pky"><a href="http://machinetl.epizy.com/Protect.php?action=download&amp;game=Sanoba-FR">Download</a></th>
+</tr>
+<tr>
+<th class="tg-3z1b">Deutsch</th>
+<th class="tg-0pky"><a href="http://machinetl.epizy.com/Protect.php?action=download&amp;game=Sanoba-DE">Download</a></th>
 </tr>
 </tbody>
 </table>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://machinetl.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="14 de December de 2018 6:58 AM" -->
+<!-- generated-on="14 de December de 2018 7:22 PM" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://machinetl.github.io/sitemap-misc.xml</loc>
-		<lastmod>2018-12-14T06:58:33+00:00</lastmod>
+		<lastmod>2018-12-14T19:21:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://machinetl.github.io/sitemap-pt-post-2018-12.xml</loc>
-		<lastmod>2018-12-10T03:13:48+00:00</lastmod>
+		<lastmod>2018-12-14T19:21:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://machinetl.github.io/sitemap-pt-page-2018-12.xml</loc>
 		<lastmod>2018-12-14T06:58:33+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 45eb08f3c5196bd5d510efbb5156eba9; Queries for sitemap: 5; Total queries: 27; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: 16be06e34db7a64631b66f9a2a017efa; Queries for sitemap: 5; Total queries: 27; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->

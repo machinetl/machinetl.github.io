@@ -206,7 +206,7 @@ if (navigator.userAgent.toLowerCase().indexOf("bot") < 0){
 	var Page = document.location.pathname.toLowerCase();
 	if (Page.indexOf("/warning") < 0){
 		if (getCookie("warning") === null){
-			document.location.href = "./warning";
+			document.location = "https://machinetl.github.io/warning";
 		}
 	}
 }

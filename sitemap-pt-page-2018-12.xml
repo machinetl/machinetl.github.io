@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://machinetl.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="14 de December de 2018 7:22 PM" -->
+<!-- generated-on="14 de December de 2018 7:53 PM" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://machinetl.github.io/search_gcse/</loc>
 		<lastmod>2018-12-09T21:27:47+00:00</lastmod>
@@ -18,4 +18,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 4d4ce1c9cc491c0642124153f14577c1; Queries for sitemap: 4; Total queries: 26; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: cb3cb4db65aeb8d97e7a795a80572308; Queries for sitemap: 4; Total queries: 26; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
